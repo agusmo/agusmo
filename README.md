@@ -1,7 +1,7 @@
-### ¡Hola! Me llamo Agus 👋 👩‍💻
+### ¡Hola Me llamo Agus! 👋 👩‍💻
 
 
-## Soy programadora Full Stack y me apasiona el diseño 🎨
+## Soy programadora Front End y me apasiona el diseño 🎨
 
 - 📚 Profesora de desarrollo Front End
 - 📱 Aprendiendo desarrollo mobile 
