@@ -1,14 +1,14 @@
 ### ¡Hola! Me llamo Agus 👋 👩‍💻
 
 
-## Soy programadora Full Stack (y me gusta mucho el diseño)
+## Soy programadora Full Stack y me apasiona el diseño 🎨
 
-- 🔭 Soy profesora de desarrollo Front End
-- 🌱 Aprendiendo desarrollo mobile 
+- 📚 Soy profesora de desarrollo Front End
+- 📱 Aprendiendo desarrollo mobile 
 - ⚡  Busco fusionar el arte con la tecnología
 
 
-### Conectemos:
+### 🔗 Conectemos:
 
 
 [<img align="left" alt="agusmo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
