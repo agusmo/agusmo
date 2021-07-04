@@ -1,4 +1,4 @@
-### ¡Hola! Me llamo Agus 👋
+### ¡Hola! Me llamo Agus 👋 👩‍💻
 
 
 ## Soy programadora Full Stack (y me gusta mucho el diseño)
